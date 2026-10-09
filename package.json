@@ -1,0 +1,22 @@
+{
+  "name": "practica-secret-scanning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/h2-r6/practica-secret-scanning.git"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/h2-r6/practica-secret-scanning/issues"
+  },
+  "homepage": "https://github.com/h2-r6/practica-secret-scanning#readme",
+  "dependencies": {
+    "dotenv": "^18.0.6"
+  }
+}
